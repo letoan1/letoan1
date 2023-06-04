@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Le Van Toan
-- 👋 I'm 21, in Quang Tri
-- 👋 Live in Da Nang
+- 🎉 I'm 21, in Quang Tri
+- 🏠 Live in Da Nang
 
 
 <!---

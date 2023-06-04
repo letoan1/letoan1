@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Lê Văn Toản
+- 👋 Hi, I’m Le Van Toan
+- 👋 I'm 21, in Quang Tri
+- 👋 Live in Da Nang
 
 
 <!---

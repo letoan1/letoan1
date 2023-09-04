@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Van Toan</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letoan1" alt="letoan1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=letoan1&label=Profile%20views&color=0e75b6&style=flat" alt="letoan1" /> </p>
 
 - 🌱 I’m currently learning **.NET, ReactJS**
 
